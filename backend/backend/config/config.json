@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "shaurav",
+    "database": "MUN-Registration",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "shaurav",
+    "database": "test-MUN-Registration",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "shaurav",
+    "database": "production-Mun-Registration",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+  
+}
